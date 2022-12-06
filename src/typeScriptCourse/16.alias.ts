@@ -12,7 +12,7 @@
   }
   greeting('ola','2XL')
   greeting(2,'LA')
-  greeting(true,2)
+  greeting(true,'LA')
 
   //LiteralTypes
 })()
